@@ -11,7 +11,7 @@
 	<!-- <bean id="HandlerMapping" class="org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping" 
 		/> <bean name="/welcome.html" class="hellocontroller.HelloController" /> -->
 	<context:component-scan
-		base-package="get.post.httprequest" />
+		base-package="com.gontuseries.hellocontroller" />
 	<mvc:annotation-driven/>
 	<bean id="ViewResolver"
 		class="org.springframework.web.servlet.view.InternalResourceViewResolver">

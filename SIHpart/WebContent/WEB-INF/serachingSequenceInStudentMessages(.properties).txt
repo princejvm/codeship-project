@@ -1,0 +1,5 @@
+Validation_anotation_name.object_reference_name.field_name
+validation_anntation_name.field_name
+validation_annotation_name.field_type
+validation-annotation_name
+use default error message for constraint violation
